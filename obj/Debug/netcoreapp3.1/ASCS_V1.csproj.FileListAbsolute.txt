@@ -1,0 +1,14 @@
+D:\PostDoctor\code\ASCS_V1\bin\Debug\netcoreapp3.1\ASCS_V1.exe
+D:\PostDoctor\code\ASCS_V1\bin\Debug\netcoreapp3.1\ASCS_V1.deps.json
+D:\PostDoctor\code\ASCS_V1\bin\Debug\netcoreapp3.1\ASCS_V1.runtimeconfig.json
+D:\PostDoctor\code\ASCS_V1\bin\Debug\netcoreapp3.1\ASCS_V1.runtimeconfig.dev.json
+D:\PostDoctor\code\ASCS_V1\bin\Debug\netcoreapp3.1\ASCS_V1.dll
+D:\PostDoctor\code\ASCS_V1\bin\Debug\netcoreapp3.1\ASCS_V1.pdb
+D:\PostDoctor\code\ASCS_V1\obj\Debug\netcoreapp3.1\ASCS_V1.csproj.AssemblyReference.cache
+D:\PostDoctor\code\ASCS_V1\obj\Debug\netcoreapp3.1\ASCS_V1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PostDoctor\code\ASCS_V1\obj\Debug\netcoreapp3.1\ASCS_V1.AssemblyInfoInputs.cache
+D:\PostDoctor\code\ASCS_V1\obj\Debug\netcoreapp3.1\ASCS_V1.AssemblyInfo.cs
+D:\PostDoctor\code\ASCS_V1\obj\Debug\netcoreapp3.1\ASCS_V1.csproj.CoreCompileInputs.cache
+D:\PostDoctor\code\ASCS_V1\obj\Debug\netcoreapp3.1\ASCS_V1.dll
+D:\PostDoctor\code\ASCS_V1\obj\Debug\netcoreapp3.1\ASCS_V1.pdb
+D:\PostDoctor\code\ASCS_V1\obj\Debug\netcoreapp3.1\ASCS_V1.genruntimeconfig.cache
